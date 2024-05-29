@@ -1,4 +1,4 @@
-# Titanic-Logistic-regression-Model
+# Titanic-Logistic-Regression-Model
 This project aims to predict the survival of passengers aboard the Titanic using a logistic regression model.
 
 <img src= "https://github.com/dhwani123s/Images/blob/main/titanic-sinking.jpg">
